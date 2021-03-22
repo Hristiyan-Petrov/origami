@@ -5,7 +5,7 @@ import './Main.css';
 const Main = ({
     posts
 }) => {
-    console.log(posts);
+    // console.log(posts);
     return (
         <main className="main-container">
             <h1>Sooooooome Heading</h1>
